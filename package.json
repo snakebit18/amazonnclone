@@ -1,7 +1,7 @@
 {
   "name": "amazon",
   "version": "1.0.0",
-  "description": "# Lessons",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "build": "cd backend && npm install  && cd ../frontend && npm install && npm run build",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/mern-amazona.git"
+    "url": "git+https://github.com/snakebit18/amazonnclone"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/mern-amazona/issues"
+    "url": "https://github.com/snakebit18/amazonnclone"
   },
-  "homepage": "https://github.com/basir/mern-amazona#readme"
+  "homepage": "https://github.com/snakebit18/amazonnclone"
 }
